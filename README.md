@@ -11,4 +11,4 @@ W ustawionym z góry miejscu (kiedyś to się zmieni) czyta nazwy plików które
 **1234567891012** - Kod kreskowy <br/>
 **1** - Lp. zdjęcia <br/>
 
-Dzięki czemu na podstawie wyciąganego kodu kreskowego z nazwy pliku, można stworzyć folder o EanNazwie a następnie przenieść te zdjęcia do odpowiednich folderów. 
+Dzięki czemu na podstawie wyciąganego kodu kreskowego z nazwy pliku, można stworzyć folder o **EanNazwie** a następnie przenieść te zdjęcia do odpowiednich folderów. 
