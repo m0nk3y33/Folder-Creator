@@ -4,11 +4,11 @@ Prosty skrypt stworzony w celu przyspieszenia i ułatwienia sobie pracy z obrób
 
 
 # Zasada działania 
-W ustawionym z góry miejscu (kiedyś to się zmieni) czyta nazwy plików które były nazwane: **1432_1234567891012_1**.__
+W ustawionym z góry miejscu (kiedyś to się zmieni) czyta nazwy plików które były nazwane: **1432_1234567891012_1**.<br/>
 
 
-**1432** - Id produktu__
-**1234567891012** - Kod kreskowy__
-**1** - Lp. zdjęcia__
+**1432** - Id produktu <br/>
+**1234567891012** - Kod kreskowy <br/>
+**1** - Lp. zdjęcia <br/>
 
 Dzięki czemu na podstawie wyciąganego kodu kreskowego z nazwy pliku, można stworzyć folder o EanNazwie a następnie przenieść te zdjęcia do odpowiednich folderów. 
