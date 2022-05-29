@@ -1,4 +1,4 @@
-# # Folder Creator
+# Folder Creator
 
 Prosty skrypt stworzony w celu przyspieszenia i ułatwienia sobie pracy z obróbką zdjęć.
 
